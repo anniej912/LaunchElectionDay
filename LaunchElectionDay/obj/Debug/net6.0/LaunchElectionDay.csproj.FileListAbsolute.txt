@@ -1,0 +1,14 @@
+C:\Users\annie\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annie\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.AssemblyInfoInputs.cache
+C:\Users\annie\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.AssemblyInfo.cs
+C:\Users\annie\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.csproj.CoreCompileInputs.cache
+C:\Users\annie\Source\Repos\LaunchElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.exe
+C:\Users\annie\Source\Repos\LaunchElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.deps.json
+C:\Users\annie\Source\Repos\LaunchElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.runtimeconfig.json
+C:\Users\annie\Source\Repos\LaunchElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.dll
+C:\Users\annie\Source\Repos\LaunchElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.pdb
+C:\Users\annie\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.dll
+C:\Users\annie\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\refint\LaunchElectionDay.dll
+C:\Users\annie\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.pdb
+C:\Users\annie\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.genruntimeconfig.cache
+C:\Users\annie\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\ref\LaunchElectionDay.dll
